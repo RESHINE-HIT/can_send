@@ -1,0 +1,21 @@
+[0.282s] Invoking command in '/home/qiuzhi/can_send/src/can_ros': PYTHONPATH=/home/qiuzhi/can_send/build/can_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/qiuzhi/can_send/install/can_ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/can_ros build --build-base /home/qiuzhi/can_send/build/can_ros/build install --record /home/qiuzhi/can_send/build/can_ros/install.log --install-scripts $base/lib/can_ros --single-version-externally-managed install_data
+[0.375s] running egg_info
+[0.375s] writing ../../build/can_ros/can_ros.egg-info/PKG-INFO
+[0.375s] writing dependency_links to ../../build/can_ros/can_ros.egg-info/dependency_links.txt
+[0.375s] writing entry points to ../../build/can_ros/can_ros.egg-info/entry_points.txt
+[0.375s] writing requirements to ../../build/can_ros/can_ros.egg-info/requires.txt
+[0.376s] writing top-level names to ../../build/can_ros/can_ros.egg-info/top_level.txt
+[0.393s] reading manifest file '../../build/can_ros/can_ros.egg-info/SOURCES.txt'
+[0.393s] writing manifest file '../../build/can_ros/can_ros.egg-info/SOURCES.txt'
+[0.393s] running build
+[0.393s] running build_py
+[0.393s] running install
+[0.394s] running install_lib
+[0.394s] running install_data
+[0.394s] running install_egg_info
+[0.395s] removing '/home/qiuzhi/can_send/install/can_ros/lib/python3.8/site-packages/can_ros-0.0.0-py3.8.egg-info' (and everything under it)
+[0.395s] Copying ../../build/can_ros/can_ros.egg-info to /home/qiuzhi/can_send/install/can_ros/lib/python3.8/site-packages/can_ros-0.0.0-py3.8.egg-info
+[0.395s] running install_scripts
+[0.404s] Installing send_node script to /home/qiuzhi/can_send/install/can_ros/lib/can_ros
+[0.404s] writing list of installed files to '/home/qiuzhi/can_send/build/can_ros/install.log'
+[0.414s] Invoked command in '/home/qiuzhi/can_send/src/can_ros' returned '0': PYTHONPATH=/home/qiuzhi/can_send/build/can_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/qiuzhi/can_send/install/can_ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/can_ros build --build-base /home/qiuzhi/can_send/build/can_ros/build install --record /home/qiuzhi/can_send/build/can_ros/install.log --install-scripts $base/lib/can_ros --single-version-externally-managed install_data

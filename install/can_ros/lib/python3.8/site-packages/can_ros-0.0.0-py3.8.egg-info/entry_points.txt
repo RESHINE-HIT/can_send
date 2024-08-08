@@ -1,0 +1,3 @@
+[console_scripts]
+send_node = can_ros.send:main
+

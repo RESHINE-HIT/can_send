@@ -1,0 +1,30 @@
+[0.321s] Invoking command in '/home/qiuzhi/can_send/src/can_ros': PYTHONPATH=/home/qiuzhi/can_send/build/can_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/qiuzhi/can_send/install/can_ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/can_ros build --build-base /home/qiuzhi/can_send/build/can_ros/build install --record /home/qiuzhi/can_send/build/can_ros/install.log --install-scripts $base/lib/can_ros --single-version-externally-managed install_data
+[0.415s] running egg_info
+[0.415s] writing ../../build/can_ros/can_ros.egg-info/PKG-INFO
+[0.416s] writing dependency_links to ../../build/can_ros/can_ros.egg-info/dependency_links.txt
+[0.416s] writing entry points to ../../build/can_ros/can_ros.egg-info/entry_points.txt
+[0.416s] writing requirements to ../../build/can_ros/can_ros.egg-info/requires.txt
+[0.416s] writing top-level names to ../../build/can_ros/can_ros.egg-info/top_level.txt
+[0.436s] reading manifest file '../../build/can_ros/can_ros.egg-info/SOURCES.txt'
+[0.436s] writing manifest file '../../build/can_ros/can_ros.egg-info/SOURCES.txt'
+[0.436s] running build
+[0.436s] running build_py
+[0.437s] copying can_ros/read_joystick.py -> /home/qiuzhi/can_send/build/can_ros/build/lib/can_ros
+[0.437s] copying can_ros/send.py -> /home/qiuzhi/can_send/build/can_ros/build/lib/can_ros
+[0.437s] copying can_ros/read_encoder.py -> /home/qiuzhi/can_send/build/can_ros/build/lib/can_ros
+[0.437s] running install
+[0.437s] running install_lib
+[0.438s] copying /home/qiuzhi/can_send/build/can_ros/build/lib/can_ros/read_joystick.py -> /home/qiuzhi/can_send/install/can_ros/lib/python3.8/site-packages/can_ros
+[0.438s] copying /home/qiuzhi/can_send/build/can_ros/build/lib/can_ros/send.py -> /home/qiuzhi/can_send/install/can_ros/lib/python3.8/site-packages/can_ros
+[0.438s] copying /home/qiuzhi/can_send/build/can_ros/build/lib/can_ros/read_encoder.py -> /home/qiuzhi/can_send/install/can_ros/lib/python3.8/site-packages/can_ros
+[0.438s] byte-compiling /home/qiuzhi/can_send/install/can_ros/lib/python3.8/site-packages/can_ros/read_joystick.py to read_joystick.cpython-38.pyc
+[0.439s] byte-compiling /home/qiuzhi/can_send/install/can_ros/lib/python3.8/site-packages/can_ros/send.py to send.cpython-38.pyc
+[0.439s] byte-compiling /home/qiuzhi/can_send/install/can_ros/lib/python3.8/site-packages/can_ros/read_encoder.py to read_encoder.cpython-38.pyc
+[0.440s] running install_data
+[0.440s] running install_egg_info
+[0.441s] removing '/home/qiuzhi/can_send/install/can_ros/lib/python3.8/site-packages/can_ros-0.0.0-py3.8.egg-info' (and everything under it)
+[0.441s] Copying ../../build/can_ros/can_ros.egg-info to /home/qiuzhi/can_send/install/can_ros/lib/python3.8/site-packages/can_ros-0.0.0-py3.8.egg-info
+[0.441s] running install_scripts
+[0.450s] Installing send_node script to /home/qiuzhi/can_send/install/can_ros/lib/can_ros
+[0.450s] writing list of installed files to '/home/qiuzhi/can_send/build/can_ros/install.log'
+[0.460s] Invoked command in '/home/qiuzhi/can_send/src/can_ros' returned '0': PYTHONPATH=/home/qiuzhi/can_send/build/can_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/qiuzhi/can_send/install/can_ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/can_ros build --build-base /home/qiuzhi/can_send/build/can_ros/build install --record /home/qiuzhi/can_send/build/can_ros/install.log --install-scripts $base/lib/can_ros --single-version-externally-managed install_data
